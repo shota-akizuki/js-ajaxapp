@@ -1,3 +1,3 @@
 # js-ajaxapp
 
-### `npx @js-primer/local-servert`
+### `npx @js-primer/local-server`
